@@ -1,0 +1,28 @@
+{
+  "name": "edofre/yii2-validators",
+  "description": "Yii2 frequently used validators",
+  "require": {
+    "php": ">=5.5.0",
+    "yiisoft/yii2": "*",
+  },
+  "keywords": [
+    "validator",
+    "validators",
+    "price"
+    "zipcode"
+  ],
+  "homepage": "https://github.com/edofre/yii2-validators",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Edo Freriks",
+      "email": "edofre@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "edofre\\validators\\": ""
+    }
+  }
+}

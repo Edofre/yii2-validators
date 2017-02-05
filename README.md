@@ -1,6 +1,10 @@
 # Yii2 validators
 
-# Still in development, use at own risk...
+[![Latest Stable Version](https://poser.pugx.org/edofre/yii2-validators/v/stable)](https://packagist.org/packages/edofre/yii2-validators)
+[![Total Downloads](https://poser.pugx.org/edofre/yii2-validators/downloads)](https://packagist.org/packages/edofre/yii2-validators)
+[![Latest Unstable Version](https://poser.pugx.org/edofre/yii2-validators/v/unstable)](https://packagist.org/packages/edofre/yii2-validators)
+[![License](https://poser.pugx.org/edofre/yii2-validators/license)](https://packagist.org/packages/edofre/yii2-validators)
+[![composer.lock](https://poser.pugx.org/edofre/yii2-validators/composerlock)](https://packagist.org/packages/edofre/yii2-validators)
 
 ## Installation
 
